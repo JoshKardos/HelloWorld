@@ -1,6 +1,6 @@
 # HelloWorld
 
-Set up server
-
-Python -- python -m SimpleHTTPServer 8000
-
+## Setup Server on port 8000
+```bash
+	python -m SimpleHTTPServer 8000
+```
