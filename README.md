@@ -1,6 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+
 ## Available Scripts
+
+When running first time on a new computer:
+
+### `npm install`
 
 In the project directory, you can run:
 
